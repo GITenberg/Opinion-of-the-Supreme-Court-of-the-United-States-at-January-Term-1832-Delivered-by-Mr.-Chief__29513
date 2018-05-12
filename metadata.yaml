@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7912
     wikipedia: http://en.wikipedia.org/wiki/John_Marshall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29513#Opinion-of-the-Supreme-Court-of-the-United-States-at-January-Term-1832-Delivered-by-Mr.-Chief_
 gutenberg_issued: '2009-07-26'
 gutenberg_type: Text
 identifiers:
